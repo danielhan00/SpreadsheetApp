@@ -1,7 +1,6 @@
-# CS4530_team_402
-Project repo for section 4, team 2
+# Spreadsheet Application
 
-README - SimpleSpreadSheet Project - CS4530 Group 402 
+README - SimpleSpreadSheet Project - CS4530
 	by Daniel Han, Dania Alnahdi, Dhruv Matta, Sadaf Khansalar
 
 
