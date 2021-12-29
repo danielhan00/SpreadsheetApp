@@ -1,0 +1,8 @@
+{
+  "name": "Documentation",
+  "out": "./documentation",
+  "mode": "file",
+  "ignoreCompilerErrors": true,
+  "tsconfig": "./tsconfig.json",
+  "readme": "./README.md"
+}
